@@ -39,9 +39,11 @@ My name is **Kitsakorn Seehaklang**
 
 ## Socials
 
-- [Facebook](https://www.facebook.com/kitsakorn.seehaklang.94)
-- [GitHub](https://www.github.com/NongNgui)
-- [Instagram](http://www.instagram.com/200x.nntk/)
+<p align="left">
+  <a href="https://www.facebook.com/kitsakorn.seehaklang.94" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="36" height="36" alt="Facebook" /></a>
+  <a href="https://www.github.com/NongNgui" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" /></a>
+  <a href="http://www.instagram.com/200x.nntk/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="36" height="36" alt="Instagram" /></a>
+</p>
 
 ## Badges
 
